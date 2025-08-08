@@ -1,4 +1,5 @@
 import pygame
+import math
 
 
 # Base class for game objects
